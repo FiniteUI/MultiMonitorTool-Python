@@ -19,3 +19,5 @@ mmt.turn_off_monitor(monitors[0]['Name'])
 #turn back on
 mmt.turn_on_monitor(monitors[0]['Name'])
 ```
+
+Further MMT documentation is available at the link above.
