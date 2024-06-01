@@ -6,7 +6,7 @@ instance of the MMT class and path the path to MultiMonitorTool as the only para
 of MultiMonitorTool is available through the class functions.
 
 Example:
-```
+```python
 #create mmt instance
 mmt = multi_monitor_tool.MMT('D:\Programs\MultiMonitorTool\MultiMonitorTool.exe')
 
